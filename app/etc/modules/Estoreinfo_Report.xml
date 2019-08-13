@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Estoreinfo_Report>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Estoreinfo_Report>
+    </modules>
+</config>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>9wcVR4bIlRVxfPN0</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>GNU General Public License (GPL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Improve your sites&#x2019;s online reputation and utilize it to drive traffic and increase conversion rates! </summary>
+    <description>e-Store Info helps e-commerce businesses manage their online reputation across the web to improve conversion rates by up to 100%. We utilize unique algorithm to process and evaluate business data based on predetermined performance metrics including: volume of orders, shipping and cancellation rates. e-Store offers its basic version of integration for Magento businesses FREE.</description>
+    <notes>This is to display the order report statistic summary on our website.</notes>
+    <authors><author><name>e-Storeinfo</name><user>estoreinfo</user><email>sales@estoreinfo.com</email></author></authors>
+    <date>2016-08-18</date>
+    <time>14:17:02</time>
+    <contents><target name="magecommunity"><dir name="Estoreinfo"><dir name="Report"><dir name="controllers"><file name="IndexController.php" hash="5419cbdd06fcf70fbf9befcf1d0d67e2"/></dir><dir name="etc"><file name="config.xml" hash="f9ecd322d884ddffc7d7014ab12d272f"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Estoreinfo_Report.xml" hash="c8127523507cb6cf2a6d9d4a263f62a8"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>7.0.8</max></php></required></dependencies>
+</package>

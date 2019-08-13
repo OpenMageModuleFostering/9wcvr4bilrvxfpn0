@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Estoreinfo_Report>
+            <version>0.1.0</version>    <!-- Version number of your module -->
+        </Estoreinfo_Report>
+    </modules>
+    <frontend>
+        <routers>
+            <mymodule>
+                <use>standard</use>
+                <args>
+                    <module>Estoreinfo_Report</module>
+                    <frontName>estoreinfodata</frontName>
+                </args>
+            </mymodule>
+        </routers>
+    </frontend>
+</config>
