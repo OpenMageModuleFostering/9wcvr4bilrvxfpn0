@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/9wcVR4bIlRVxfPN0",
+    "name": "OpenMageModuleFostering\/9wcVR4bIlRVxfPN0",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
-    "description": "Improve your sites’s online reputation and utilize it to drive traffic and increase conversion rates! ",
+    "description": "Improve your sites\u2019s online reputation and utilize it to drive traffic and increase conversion rates! ",
     "authors": [
-    {
-        "name": "e-Storeinfo",
-        "email": "sales@estoreinfo.com"
-    }
-],
+        {
+            "name": "e-Storeinfo",
+            "email": "sales@estoreinfo.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
